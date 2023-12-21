@@ -1,0 +1,7 @@
+PostgreSQL~=14.9
+Python~=3.10.12
+pandas~=2.0.3
+SQLAlchemy~=2.0.23
+greenlet~=3.0.1
+sentence-transformers~=2.2.2
+
